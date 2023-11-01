@@ -1,0 +1,19 @@
+{
+  "name": "brainfuck-ts",
+  "version": "1.0.0",
+  "description": "Brainfuck interpreter written in TypeScript",
+  "main": "src/index.js",
+  "scripts": {
+    "compile": "bun src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Fausto95/brainfuck-ts.git"
+  },
+  "author": "Fausto95",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fausto95/brainfuck-ts/issues"
+  },
+  "homepage": "https://github.com/Fausto95/brainfuck-ts#readme"
+}
